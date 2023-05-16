@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  6 18:38:05 2023
-
-@author: Big data lab project
-"""
 
 
 import pandas as pd
